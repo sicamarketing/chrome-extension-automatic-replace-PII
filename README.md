@@ -21,7 +21,7 @@ Replace personally identifiable information like name, phone number, email addre
 
 **How to install:**
 
-1. Download and Extract the Extension Files: Download the latest version and extract into a folder on your computer.
+1. Download the files into a folder on your computer.
 
 2. Open Chrome Extensions Page: Open Chrome and navigate to chrome://extensions/ in the address bar.
 
