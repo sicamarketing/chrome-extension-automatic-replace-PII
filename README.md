@@ -25,7 +25,7 @@ Replace personally identifiable information like name, phone number, email addre
 
 2. Open Chrome Extensions Page: Open Chrome and navigate to chrome://extensions/ in the address bar.
 
-3. Enable Developer Mode: Enable "Developer mode" by toggling the switch in the top-right corner of the Extensions page.
+3. Enable Developer Mode in Chrome: Enable "Developer mode" by toggling the switch in the top-right corner of the Extensions page.
 
 4. Load Unpacked Extension: Click on the "Load unpacked" button which appears after enabling Developer mode. In the file picker dialog, navigate to and select the folder containing the extension files.
 
