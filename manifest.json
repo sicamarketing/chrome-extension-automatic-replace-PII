@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "name": "Data Replacer",
     "version": "1.0",
+    "description": "Developed by SicaMarketing (https://sicamarketing.com). Licensed under the MIT License.",
     "permissions": ["activeTab"],
     "action": {
         "default_popup": "popups.html"
