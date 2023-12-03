@@ -1,5 +1,5 @@
 # chrome-extension-automatic-replace-PII
-Replace personally identifiable information like name, phone number, email address on a webpage with fake placeholder content, to protect sensitive data in demos, video calls, screenshots and screen recordings
+Replace personally identifiable information like name, phone number, email address on a webpage with fake placeholder content, to protect sensitive data in screenshots and screen recordings.
 
 **What it does:** When activated on a webpage, it replaces any found names, numbers, and email addresses in the UI with fake names, numbers, email addresses. 
 
@@ -9,11 +9,11 @@ Replace personally identifiable information like name, phone number, email addre
 
 **To do:**
 
-• Add more logic to ensure it only changes names (it currently looks for capitalized words to replace, which can result in other UI elements being replaced that aren't names.
+• Add more logic to ensure it only changes names (it currently looks for capitalized words to replace, which can result in other UI elements being replaced that aren't names.)
 
-• Make it run automatically when page loads – currently user must press button
+• Make it run automatically when page loads – currently, each new page visited will show new PII, and user must press button in the extension to replace content on every page. This makes it not ideal for any live uses, yet. 
 
-• Add address replacement
+• Add address replacement.
 
 • Add ability to exclude certain words/content from being replaced.
 
