@@ -8,10 +8,14 @@ Replace personally identifiable information like name, phone number, email addre
 **Notes:** On each page, user must click extension button to replace PII, so if a demo involves navigating to multiple pages, you’ll need to edit out the moments when customer data is visible on page load.
 
 **To do:**
-• Add more logic to ensure it only changes names (it currently looks for capitalized words to replace, which can result i nother UI elements being replaces that aren't names.
+
+• Add more logic to ensure it only changes names (it currently looks for capitalized words to replace, which can result in other UI elements being replaced that aren't names.
+
 • Make it run automatically when page loads – currently user must press button
+
 • Add address replacement
-• Add ability to exclude certain words in the UI.
+
+• Add ability to exclude certain words/content from being replaced.
 
 --
 
